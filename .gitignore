@@ -1,0 +1,3 @@
+*.pyc
+apps/*.pyc
+configs/*.pyc
